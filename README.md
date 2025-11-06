@@ -1,3 +1,4 @@
+![logo](https://github.com/ektauniyal123/ektauniyal123/blob/main/Github.%20Banner.png.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ekta Uniyal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
