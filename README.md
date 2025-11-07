@@ -12,13 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ekta-uniyal" target="blank">
+  <a href="https://www.linkedin.com/in/ekta-uniyal-694053282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekta-uniyal" height="30" width="40" />
   </a>
-  <a href="https://fb.com/uniyal.ekta" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100013648861459" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uniyal.ekta" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/uniyal_ekta" target="blank">
+  <a href="https://www.instagram.com/ekta____uniyal?igsh=eHh3MzJ5bWw2dWs1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uniyal_ekta" height="30" width="40" />
   </a>
 </p>
