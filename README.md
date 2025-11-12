@@ -1,6 +1,6 @@
 ![logo](https://github.com/ektauniyal123/ektauniyal123/blob/main/Github.%20Banner.png.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ekta Uniyal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRsaHRiemZhcWYzdWFndzB4bzk1a2R6d2R4am82MDJiajd4NTVxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uVhWw4M2puM4bUJgM1/giphy.gif">
 
